@@ -1,0 +1,34 @@
+body{
+  background-image: url("https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg");
+}
+
+.americanFoods{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.burgerButton{
+  padding: 25px;
+  border-radius: 10px;
+  margin: 25px;
+}
+
+.hotdogbutton{
+  padding: 25px;
+  border-radius: 10px;
+  margin: 25px;
+}
+
+.burgergif{
+  width: 350px;
+  height: 350px;
+}
+.hotdoggif{
+  width: 350px;
+  height: 350px;
+}
+h1{
+  text-align: center;
+}

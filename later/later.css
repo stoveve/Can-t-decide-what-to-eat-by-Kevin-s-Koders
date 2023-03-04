@@ -1,0 +1,12 @@
+.nopics{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.latersign{
+  width:300px;
+}
+.homesign{
+  width:200px;
+}

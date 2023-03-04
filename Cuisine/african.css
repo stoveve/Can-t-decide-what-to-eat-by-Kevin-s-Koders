@@ -1,0 +1,33 @@
+body{
+  background-image: url("https://media.istockphoto.com/id/1063898000/vector/flag-of-ethiopia.jpg?s=612x612&w=0&k=20&c=0zAwbAARyQZJfdyI8BHnso_ihmQ19kRqL2u6Ls9QGZg=");
+}
+
+.ethiopianFoods{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tibsButton{
+  padding: 25px;
+  border-radius: 10px;
+  margin: 25px;
+}
+.kitfoButton{
+  padding: 25px;
+  border-radius: 10px;
+  margin: 25px;
+}
+
+.tibspic{
+  width: 350px;
+  height: 350px;
+}
+.kitfopic{
+  width: 350px;
+  height: 350px;
+}
+h1{
+  text-align: center;
+}

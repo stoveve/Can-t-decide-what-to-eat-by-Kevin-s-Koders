@@ -1,0 +1,35 @@
+body{
+  background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/255px-Flag_of_Italy.svg.png");
+}
+
+.italianFoods{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pizzaButton{
+  padding: 25px;
+  border-radius: 10px;
+  margin: 25px;
+}
+
+
+.rigatoniButton{
+  padding: 25px;
+  border-radius: 10px;
+  margin: 25px;
+}
+.Rigatonipic{
+  width: 350px;
+  height: 350px;
+}
+
+.pizzagif{
+  width: 350px;
+  height: 350px;
+}
+h1{
+  text-align: center;
+}

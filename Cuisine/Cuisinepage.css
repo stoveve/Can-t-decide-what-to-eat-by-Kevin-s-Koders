@@ -1,0 +1,87 @@
+body{
+  background-image: url("https://static5.depositphotos.com/1018414/407/i/600/depositphotos_4077977-stock-photo-earth-in-space.jpg");
+}
+
+.cuisineButton {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  
+}
+
+.mexicanButton{
+  padding: 40px;
+  border-radius: 20px;
+  margin: 30px;
+  font-size: 30px;
+}
+
+.chineseButton{
+  padding: 40px;
+  border-radius: 20px;
+  margin: 30px;
+  font-size: 30px;
+}
+
+.indianButton{
+  padding: 40px;
+  border-radius: 20px;
+  margin: 30px;
+font-size: 30px;
+}
+
+.italianButton{
+  padding: 40px;
+  border-radius: 20px;
+  margin: 30px;
+  font-size: 30px;
+}
+
+
+.americanButton{
+  padding: 40px;
+  border-radius: 20px;
+  margin: 30px;
+  font-size: 30px;
+}
+
+.ethiopianButton{
+  padding: 40px;
+  border-radius: 20px;
+  margin: 30px;
+  font-size: 30px;
+}
+
+.japaneseButton{
+  padding: 40px;
+  border-radius: 20px;
+  margin: 30px;
+  font-size: 30px;
+}
+.randomButton{
+  padding: 40px;
+  border-radius: 20px;
+  margin: 30px;
+  font-size: 30px;
+}
+
+h1{
+  text-align: center;
+  color:white;
+}
+
+.second{
+  display: flex;
+  flex-direction: row;
+}
+.third{
+  display: flex;
+  flex-direction: row;
+}
+.fourth{
+  display:flex:
+  flex-direction: row;
+}
+
+

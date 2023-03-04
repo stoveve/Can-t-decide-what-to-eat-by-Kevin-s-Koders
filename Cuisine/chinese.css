@@ -1,0 +1,34 @@
+body{
+  background-image: url("https://cdn.britannica.com/90/7490-004-BAD4AA72/Flag-China.jpg");
+}
+
+.chineseFoods{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+.friedriceButton{
+  padding: 25px;
+  border-radius: 10px;
+  margin: 25px;
+}
+.chowmeinButton{
+  padding: 25px;
+  border-radius: 10px;
+  margin: 25px;
+}
+
+.friedricegif{
+  width: 350px;
+  height: 350px;
+}
+.chowmeingif{
+  width: 350px;
+  height: 350px;
+}
+
+h1{
+  text-align: center;
+}

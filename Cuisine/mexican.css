@@ -1,0 +1,31 @@
+body{
+  background-image: url("https://cdn.britannica.com/73/2573-004-29818847/Flag-Mexico.jpg");
+}
+
+.mexicanFoods{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tacoButton{
+  padding: 25px;
+  border-radius: 10px;
+  margin: 25px;
+}
+.pozoleButton{
+  padding: 25px;
+  border-radius: 10px;
+  margin: 25px;
+}
+.tacogif{
+  width: 350px;
+  height: 350px;
+}
+.pozolegif{
+  width: 350px;
+  height: 350px;
+}
+h1{
+  text-align: center;
+}
